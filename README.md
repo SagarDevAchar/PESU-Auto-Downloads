@@ -25,6 +25,8 @@ A **Headless Chrome** instance is used as the operating browser in the backgroun
 	MIT License for this project *(C) 2020 Sagar Dev Achar*. Click *[here](https://choosealicense.com/licenses/mit/)* to learn more about the permissions offered by this license
 - #### README.md:
 	Here you are!
+- #### SECURITY.md:
+	Security Declaration for the code and executables
 # #
 ### System Requirements: ###
 
