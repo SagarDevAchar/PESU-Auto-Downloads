@@ -2,7 +2,7 @@
 
 ## Declaration Statement
 
-The Owner of this Repository Sagar Dev Achar doesn't guarantee or provide any security against any Data Breaches and Attacks
+The Owner of this Repository Sagar Dev Achar does not guarantee or provide any security against any Data Breaches and Attacks
 
 The credentials once entered into the program assume that you have enabled sufficient Login Access in your Google Account and you are running the program with your credentials on a trusted device
 
