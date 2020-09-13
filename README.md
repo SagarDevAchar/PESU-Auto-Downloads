@@ -8,7 +8,7 @@
 # #
 ### Updates: ###
 - #### 12 September 2020 9:45 PM:
-	The Code and Executable currently works for CSE Course. Downloads are available for Subjects CS201 to CS205. Working to enable the code for more Courses and Subjects. Student Co-operation required. Please contact me at sagardevachar1@gmail.com if you are from other courses at PESIT
+	The Code and Executable currently works for CSE Course. Downloads are available for Subjects CS201 to CS205. Working to enable the code for more Courses and Subjects. Student Co-operation required. Please contact me at sagardevachar1@gmail.com if you are from other courses at PESU
 # #
 ### Description: ###
 
