@@ -11,3 +11,9 @@ The sensitive credentials will be erased from the stack after no longer than 20 
 ## Reporting a Vulnerability
 
 For any Bugs / Vulnerabilities in Code / Security, please raise an *[Issue Ticket](https://github.com/SagarDevAchar/PESU-Auto-Downloads/issues/new)* under the *[Issues Tab](https://github.com/SagarDevAchar/PESU-Auto-Downloads/issues)* of this Repository. Any further Corrections and Updates will be considered on the basis of the raised issues.
+
+## Usage of Third Party Program (ChromeDriver)
+
+ChromeDriver is a property of **The Chromium Projects** by Google and any issue with the usage / security of it does not hold Sagar Dev Achar responsible.
+
+For details and documentation about ChromeDriver, click [here](https://chromedriver.chromium.org)
