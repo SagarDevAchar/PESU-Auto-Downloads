@@ -1,5 +1,5 @@
 # PESU Auto-Downloads #
-## Automated Content Download System for PESIT Students ##
+## Automated Content Download System for PESU Students ##
 **Completed on:** 12 September 2020 07:31 PM
 
 **Coded By:**   Sagar Dev Achar
